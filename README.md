@@ -1,5 +1,9 @@
 # Predictor de Retrasos en Vuelos de EE.UU.
 
+## Aplicación desplegada
+
+🌐 https://salmar-vuelos.streamlit.app
+
 ## Descripción del proyecto
 
 Este proyecto ha sido elaborado como trabajo final de la asignatura _Inteligencia Artificial y Estadistica_ del doble grado de Matemáticas y Estadística de la Universidad de Sevilla por **María Juliá González** y **Salvador Pérez Espíldora**.
