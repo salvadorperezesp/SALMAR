@@ -1,0 +1,452 @@
+[
+ {
+   "Rank": 1,
+   "Airport": "United States Hartsfield–Jackson Atlanta International Airport",
+   "Location": "Atlanta, Georgia",
+   "Country": "United States",
+   "Code": "ATL/KATL",
+   "Passengers": 104171935,
+   "Year": 2016
+ },
+ {
+   "Rank": 2,
+   "Airport": "China Beijing Capital International Airport",
+   "Location": "Chaoyang-Shunyi, Beijing",
+   "Country": "China",
+   "Code": "PEK/ZBAA",
+   "Passengers": 94393454,
+   "Year": 2016
+ },
+ {
+   "Rank": 3,
+   "Airport": "United Arab Emirates Dubai International Airport",
+   "Location": "Garhoud, Dubai",
+   "Country": "United Arab Emirates",
+   "Code": "DXB/OMDB",
+   "Passengers": 83654250,
+   "Year": 2016
+ },
+ {
+   "Rank": 4,
+   "Airport": "United States Los Angeles International Airport",
+   "Location": "Los Angeles, California",
+   "Country": "United States",
+   "Code": "LAX/KLAX",
+   "Passengers": 80921527,
+   "Year": 2016
+ },
+ {
+   "Rank": 5,
+   "Airport": "Japan Tokyo Haneda Airport",
+   "Location": "Ōta, Tokyo",
+   "Country": "Japan",
+   "Code": "HND/RJTT",
+   "Passengers": 79699762,
+   "Year": 2016
+ },
+ {
+   "Rank": 6,
+   "Airport": "United States O'Hare International Airport",
+   "Location": "Chicago, Illinois",
+   "Country": "United States",
+   "Code": "ORD/KORD",
+   "Passengers": 78327479,
+   "Year": 2016
+ },
+ {
+   "Rank": 7,
+   "Airport": "United Kingdom Heathrow Airport",
+   "Location": "Hillingdon, London",
+   "Country": "United Kingdom",
+   "Code": "LHR/EGLL",
+   "Passengers": 75715474,
+   "Year": 2016
+ },
+ {
+   "Rank": 8,
+   "Airport": "Hong Kong Hong Kong International Airport",
+   "Location": "Chek Lap Kok, Islands, New Territories",
+   "Country": "Hong Kong SAR, China",
+   "Code": "HKG/VHHH",
+   "Passengers": 70314462,
+   "Year": 2016
+ },
+ {
+   "Rank": 9,
+   "Airport": "China Shanghai Pudong International Airport",
+   "Location": "Pudong, Shanghai",
+   "Country": "China",
+   "Code": "PVG/ZSPD",
+   "Passengers": 66002414,
+   "Year": 2016
+ },
+ {
+   "Rank": 10,
+   "Airport": "France Charles de Gaulle Airport",
+   "Location": "Roissy-en-France, Île-de-France",
+   "Country": "France",
+   "Code": "CDG/LFPG",
+   "Passengers": 65933145,
+   "Year": 2016
+ },
+ {
+   "Rank": 11,
+   "Airport": "United States Dallas/Fort Worth International Airport",
+   "Location": "Dallas-Fort Worth, Texas",
+   "Country": "United States",
+   "Code": "DFW/KDFW",
+   "Passengers": 65670697,
+   "Year": 2016
+ },
+ {
+   "Rank": 12,
+   "Airport": "Netherlands Amsterdam Airport Schiphol",
+   "Location": "Haarlemmermeer, North Holland",
+   "Country": "The Netherlands",
+   "Code": "AMS/EHAM",
+   "Passengers": 63625534,
+   "Year": 2016
+ },
+ {
+   "Rank": 13,
+   "Airport": "Germany Frankfurt Airport",
+   "Location": "Frankfurt, Hesse",
+   "Country": "Germany",
+   "Code": "FRA/EDDF",
+   "Passengers": 60786937,
+   "Year": 2016
+ },
+ {
+   "Rank": 14,
+   "Airport": "Turkey Istanbul Atatürk Airport",
+   "Location": "Yeşilköy, Istanbul",
+   "Country": "Turkey",
+   "Code": "IST/LTBA",
+   "Passengers": 60248741,
+   "Year": 2016
+ },
+ {
+   "Rank": 15,
+   "Airport": "China Guangzhou Baiyun International Airport",
+   "Location": "Baiyun-Huadu, Guangzhou, Guangdong",
+   "Country": "China",
+   "Code": "CAN/ZGGG",
+   "Passengers": 59732147,
+   "Year": 2016
+ },
+ {
+   "Rank": 16,
+   "Airport": "United States John F. Kennedy International Airport",
+   "Location": "Queens, New York City, New York",
+   "Country": "United States",
+   "Code": "JFK/KJFK",
+   "Passengers": 58813103,
+   "Year": 2016
+ },
+ {
+   "Rank": 17,
+   "Airport": "Singapore Singapore Changi Airport",
+   "Location": "Changi, East Region",
+   "Country": "Singapore",
+   "Code": "SIN/WSSS",
+   "Passengers": 58698000,
+   "Year": 2016
+ },
+ {
+   "Rank": 18,
+   "Airport": "United States Denver International Airport",
+   "Location": "Denver, Colorado",
+   "Country": "United States",
+   "Code": "DEN/KDEN",
+   "Passengers": 58266515,
+   "Year": 2016
+ },
+ {
+   "Rank": 19,
+   "Airport": "South Korea Seoul Incheon International Airport",
+   "Location": "Incheon",
+   "Country": "Republic of Korea",
+   "Code": "ICN/RKSI",
+   "Passengers": 57849814,
+   "Year": 2016
+ },
+ {
+   "Rank": 20,
+   "Airport": "Thailand Suvarnabhumi Airport",
+   "Location": "Bang Phli, Samut Prakan",
+   "Country": "Thailand",
+   "Code": "BKK/VTBS",
+   "Passengers": 55892428,
+   "Year": 2016
+ },
+ {
+   "Rank": 21,
+   "Airport": "India Indira Gandhi International Airport",
+   "Location": "Delhi",
+   "Country": "India",
+   "Code": "DEL/VIDP",
+   "Passengers": 55631385,
+   "Year": 2016
+ },
+ {
+   "Rank": 22,
+   "Airport": "Indonesia Soekarno–Hatta International Airport",
+   "Location": "Benda, Tangerang, Banten",
+   "Country": "Indonesia",
+   "Code": "CGK/WIII",
+   "Passengers": 54969536,
+   "Year": 2016
+ },
+ {
+   "Rank": 23,
+   "Airport": "United States San Francisco International Airport",
+   "Location": "San Mateo County, California",
+   "Country": "United States",
+   "Code": "SFO/KSFO",
+   "Passengers": 53099282,
+   "Year": 2016
+ },
+ {
+   "Rank": 24,
+   "Airport": "Malaysia Kuala Lumpur International Airport",
+   "Location": "Sepang, Selangor",
+   "Country": "Malaysia",
+   "Code": "KUL/WMKK",
+   "Passengers": 52640043,
+   "Year": 2016
+ },
+ {
+   "Rank": 25,
+   "Airport": "Spain Madrid Barajas Airport",
+   "Location": "Barajas, Madrid",
+   "Country": "Spain",
+   "Code": "MAD/LEMD",
+   "Passengers": 50397928,
+   "Year": 2016
+ },
+ {
+   "Rank": 26,
+   "Airport": "United States McCarran International Airport",
+   "Location": "Las Vegas, Nevada",
+   "Country": "United States",
+   "Code": "LAS/KLAS",
+   "Passengers": 47496614,
+   "Year": 2016
+ },
+ {
+   "Rank": 27,
+   "Airport": "China Chengdu Shuangliu International Airport",
+   "Location": "Shuangliu-Wuhou, Chengdu, Sichuan",
+   "Country": "China",
+   "Code": "CTU/ZUUU",
+   "Passengers": 46039137,
+   "Year": 2016
+ },
+ {
+   "Rank": 28,
+   "Airport": "United States Seattle–Tacoma International Airport",
+   "Location": "SeaTac, Washington",
+   "Country": "United States",
+   "Code": "SEA/KSEA",
+   "Passengers": 45736700,
+   "Year": 2016
+ },
+ {
+   "Rank": 29,
+   "Airport": "India Chhatrapati Shivaji Maharaj International Airport",
+   "Location": "Mumbai, Maharashtra",
+   "Country": "India",
+   "Code": "BOM/VABB",
+   "Passengers": 44680555,
+   "Year": 2016
+ },
+ {
+   "Rank": 30,
+   "Airport": "United States Miami International Airport",
+   "Location": "Miami-Dade County, Florida",
+   "Country": "United States",
+   "Code": "MIA/KMIA",
+   "Passengers": 44584603,
+   "Year": 2016
+ },
+ {
+   "Rank": 31,
+   "Airport": "United States Charlotte Douglas International Airport",
+   "Location": "Charlotte, North Carolina",
+   "Country": "United States",
+   "Code": "CLT/KCLT",
+   "Passengers": 44422022,
+   "Year": 2016
+ },
+ {
+   "Rank": 32,
+   "Airport": "Canada Toronto Pearson International Airport",
+   "Location": "Mississauga, Ontario",
+   "Country": "Canada",
+   "Code": "YYZ/CYYZ",
+   "Passengers": 44335198,
+   "Year": 2016
+ },
+ {
+   "Rank": 33,
+   "Airport": "Spain Barcelona–El Prat Airport",
+   "Location": "El Prat, Catalonia",
+   "Country": "Spain",
+   "Code": "BCN/LEBL",
+   "Passengers": 44131031,
+   "Year": 2016
+ },
+ {
+   "Rank": 34,
+   "Airport": "United States Phoenix Sky Harbor International Airport",
+   "Location": "Phoenix, Arizona",
+   "Country": "United States",
+   "Code": "PHX/KPHX",
+   "Passengers": 43302381,
+   "Year": 2016
+ },
+ {
+   "Rank": 35,
+   "Airport": "United Kingdom Gatwick Airport",
+   "Location": "Crawley, West Sussex",
+   "Country": "United Kingdom",
+   "Code": "LGW/EGKK",
+   "Passengers": 43136795,
+   "Year": 2016
+ },
+ {
+   "Rank": 36,
+   "Airport": "Taiwan Taiwan Taoyuan International Airport",
+   "Location": "Dayuan, Taoyuan",
+   "Country": "Taiwan",
+   "Code": "TPE/RCTP",
+   "Passengers": 42296322,
+   "Year": 2016
+ },
+ {
+   "Rank": 37,
+   "Airport": "Germany Munich Airport",
+   "Location": "Freising, Bavaria",
+   "Country": "Germany",
+   "Code": "MUC/EDDM",
+   "Passengers": 42261309,
+   "Year": 2016
+ },
+ {
+   "Rank": 38,
+   "Airport": "Australia Sydney Kingsford-Smith Airport",
+   "Location": "Mascot, Sydney, New South Wales",
+   "Country": "Australia",
+   "Code": "SYD/YSSY",
+   "Passengers": 41985810,
+   "Year": 2016
+ },
+ {
+   "Rank": 39,
+   "Airport": "China Kunming Changshui International Airport",
+   "Location": "Guandu, Kunming, Yunnan",
+   "Country": "China",
+   "Code": "KMG/ZPPP",
+   "Passengers": 41980515,
+   "Year": 2016
+ },
+ {
+   "Rank": 40,
+   "Airport": "China Shenzhen Bao'an International Airport",
+   "Location": "Bao'an, Shenzhen, Guangdong",
+   "Country": "China",
+   "Code": "SZX/ZGSZ",
+   "Passengers": 41975090,
+   "Year": 2016
+ },
+ {
+   "Rank": 41,
+   "Airport": "United States Orlando International Airport",
+   "Location": "Orlando, Florida",
+   "Country": "United States",
+   "Code": "MCO/KMCO",
+   "Passengers": 41923399,
+   "Year": 2016
+ },
+ {
+   "Rank": 42,
+   "Airport": "Italy Rome–Fiumicino International Airport \"Leonardo da Vinci\"",
+   "Location": "Rome-Fiumicino, Lazio",
+   "Country": "Italy",
+   "Code": "FCO/LIRF",
+   "Passengers": 41738662,
+   "Year": 2016
+ },
+ {
+   "Rank": 43,
+   "Airport": "United States George Bush Intercontinental Airport",
+   "Location": "Houston, Texas",
+   "Country": "United States",
+   "Code": "IAH/KIAH",
+   "Passengers": 41622594,
+   "Year": 2016
+ },
+ {
+   "Rank": 44,
+   "Airport": "Mexico Mexico City International Airport",
+   "Location": "Venustiano Carranza, Mexico City",
+   "Country": "Mexico",
+   "Code": "MEX/MMMX",
+   "Passengers": 41410254,
+   "Year": 2016
+ },
+ {
+   "Rank": 45,
+   "Airport": "China Shanghai Hongqiao International Airport",
+   "Location": "Changning-Minhang, Shanghai",
+   "Country": "China",
+   "Code": "SHA/ZSSS",
+   "Passengers": 40460135,
+   "Year": 2016
+ },
+ {
+   "Rank": 46,
+   "Airport": "United States Newark Liberty International Airport",
+   "Location": "Newark, New Jersey",
+   "Country": "United States",
+   "Code": "EWR/KEWR",
+   "Passengers": 40289969,
+   "Year": 2016
+ },
+ {
+   "Rank": 47,
+   "Airport": "Philippines Ninoy Aquino International Airport",
+   "Location": "Pasay/Parañaque, Metro Manila",
+   "Country": "Philippines",
+   "Code": "MNL/RPLL",
+   "Passengers": 39534991,
+   "Year": 2016
+ },
+ {
+   "Rank": 48,
+   "Airport": "Japan Narita International Airport",
+   "Location": "Narita, Chiba",
+   "Country": "Japan",
+   "Code": "NRT/RJAA",
+   "Passengers": 39000563,
+   "Year": 2016
+ },
+ {
+   "Rank": 49,
+   "Airport": "United States Minneapolis/St Paul International Airport",
+   "Location": "St. Paul, Minnesota",
+   "Country": "United States",
+   "Code": "MSP/KMSP",
+   "Passengers": 37413728,
+   "Year": 2016
+ },
+ {
+   "Rank": 50,
+   "Airport": "Qatar Hamad International Airport",
+   "Location": "Doha",
+   "Country": "Qatar",
+   "Code": "DOH/OTHH",
+   "Passengers": 37283987,
+   "Year": 2016
+ }
+]
