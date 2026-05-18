@@ -4,8 +4,6 @@ import pandas as pd
 import joblib
 import calendar
 import numpy as np
-from siuba import *
-from siuba.dply.vector import *
 import plotly.express as px
 
 st.set_page_config(page_title="SALMAR", page_icon="✈️", layout="wide")
