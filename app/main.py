@@ -251,7 +251,6 @@ try:
     vuelos = cargar_datos()
     predictor_bin, clasificador_det = cargar_recursos()
     set_page_bg('app/foto_avion.jpg')
-    st.markdown('<div class="salmar-logo"> SALMAR</div>', unsafe_allow_html=True)
 except Exception as e:
     st.error(f"Error cargando archivos: {e}")
     st.stop()
